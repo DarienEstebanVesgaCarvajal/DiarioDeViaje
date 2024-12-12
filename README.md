@@ -7,7 +7,7 @@ Se te da la bienvenida a nuestro Diario de Viaje, donde compartimos experiencias
 - [Viaje a París](entradas/paris.md): Descubre la ciudad del amor, con su icónica Torre Eiffel y maravillosos museos.
 - [Viaje a Roma](entradas/roma.md): Explora la historia y la cultura de la capital italiana.
 - [Viaje a Tokio](entradas/tokyo.md): Sumérgete en la vibrante cultura japonesa y su deliciosa gastronomía.
-- [Viaje a Sydney](entradas/sydey.md): Encuentra una de las ciudades más multiculturales del mundo.
+- [Viaje a Sydney](entradas/sydney.md): Encuentra una de las ciudades más multiculturales del mundo.
 - [Viaje a Nueva York](entradas/nueva_york.md): Vive la experiencia de la ciudad global de esta metropolis.
 - [Viaje a Londres](entradas/londres.md): Conoce el reconocido  Big Ben o increible Palacio de Buckingham.
 - [Viaje a Berlín](entradas/berlin.md): Llega al hogar de grandes edificios gubernamentales, artes, artistas y museos.
