@@ -2,3 +2,6 @@
 
 ## Descripción
 Ciudad Maravillosa, que se caracteriza por su belleza natural, su cultura vibrante y su rica historia.
+
+## Recomendación
+Visitar el Cristo Redentor.
